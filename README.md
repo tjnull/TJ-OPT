@@ -3,7 +3,7 @@
 ## Release Date
 September 9th 2024
 
-# Introduction+
+# Introduction
 
 As a pentester, there are many great resources, cheat sheets, and guidelines that contain a large amount of valuable information. However, it can be frustrating and time-consuming to find these notes or resources that are scattered all over the place. Not to mention the large amount of notes you have stored locally across your system with several different note-taking tools. In addition, some pentesters could be in assessments that are in a closed environment making it more challenging to transfer there notes and files on their devices.In the past I used Joplin to manage my notes but I ran into a few situations where I needed to recover my notes and the way Joplin saves it's notes is in a database. I needed something to handle my notes and I can pull them directly from raw markdown and also link them during an assessment. Even though, Joplin had plugins that would suite my needs I decided to move over to Obsidian. 
 
