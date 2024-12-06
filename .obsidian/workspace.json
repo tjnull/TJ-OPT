@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md",
+                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/4. Email Services/Enumerating Email Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Notes"
+              "title": "Enumerating Email Services"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 566.5
   },
   "right": {
     "id": "1ce4cacfd08921a0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md",
+                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/4. Email Services/Enumerating Email Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Notes"
+              "title": "Backlinks for Enumerating Email Services"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md",
+                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/4. Email Services/Enumerating Email Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General Notes"
+              "title": "Outgoing links from Enumerating Email Services"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md"
+                "file": "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/4. Email Services/Enumerating Email Services.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of General Notes"
+              "title": "Outline of Enumerating Email Services"
             }
           }
         ]
@@ -164,11 +164,11 @@
   },
   "active": "3e2c265dee43ab7d",
   "lastOpenFiles": [
+    "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/ntlm_theft.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Pretender.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Responder.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Impacket NtlmRelayX.md",
-    "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/General Notes.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Inveigh.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/7. Network Shares (SMB, SAMBA, NFS)/SMB Enumeration.md",
     "Obsidian Pentest Template 1.0/Obsidian Pentest Template 1.0/3. Enumeration Notes/Services/7. Network Shares (SMB, SAMBA, NFS)/NFS Enumeration.md",
